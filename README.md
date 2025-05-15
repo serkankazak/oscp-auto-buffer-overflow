@@ -16,3 +16,11 @@ https://www.youtube.com/watch?v=zgxuwYrtrKQ
 ##### * unfortunately very simple pywinauto code for clicking debug menu and restart menu item in Immunity debugger was lost due to ssd burn out but exe still available. (abo_win.zip) you can write your own version or use provided exe after scanning for viruses. nsa ghidra could help to analyze the exe. exe created by pyinstaller, it simply clicks restart menu item in Immunity Debugger when received command from listening socket.
 
 ##### written in 2018
+
+[![kali](http://img.youtube.com/vi/dyHh3ET52_0/0.jpg)](http://www.youtube.com/watch?v=dyHh3ET52_0 "kali")
+
+https://www.youtube.com/watch?v=dyHh3ET52_0
+
+[![win](http://img.youtube.com/vi/268oI9UZUc0/0.jpg)](http://www.youtube.com/watch?v=268oI9UZUc0 "win")
+
+https://www.youtube.com/watch?v=268oI9UZUc0
